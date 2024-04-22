@@ -4,6 +4,8 @@ com/mycompany/chess/system/ChessSystem.class
 app/UI.class
 chess/Color.class
 boardgame/Position.class
+chess/pieces/Rook.class
 boardgame/Board.class
+chess/pieces/King.class
 app/Program.class
 chess/ChessMatch.class

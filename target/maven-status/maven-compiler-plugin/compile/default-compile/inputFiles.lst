@@ -1,5 +1,7 @@
 /home/dnys/NetBeansProjects/chess-system/src/main/java/chess/Color.java
+/home/dnys/NetBeansProjects/chess-system/src/main/java/chess/pieces/King.java
 /home/dnys/NetBeansProjects/chess-system/src/main/java/chess/ChessPiece.java
+/home/dnys/NetBeansProjects/chess-system/src/main/java/chess/pieces/Rook.java
 /home/dnys/NetBeansProjects/chess-system/src/main/java/app/UI.java
 /home/dnys/NetBeansProjects/chess-system/src/main/java/com/mycompany/chess/system/ChessSystem.java
 /home/dnys/NetBeansProjects/chess-system/src/main/java/boardgame/Piece.java
