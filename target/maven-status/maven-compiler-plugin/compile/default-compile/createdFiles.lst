@@ -1,3 +1,9 @@
-boardgame/Position.class
+boardgame/Piece.class
+chess/ChessPiece.class
 com/mycompany/chess/system/ChessSystem.class
+app/UI.class
+chess/Color.class
+boardgame/Position.class
+boardgame/Board.class
 app/Program.class
+chess/ChessMatch.class
