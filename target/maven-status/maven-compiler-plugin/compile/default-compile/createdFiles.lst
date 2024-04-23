@@ -6,6 +6,7 @@ chess/Color.class
 boardgame/Position.class
 chess/pieces/Rook.class
 boardgame/Board.class
+boardgame/BoardException.class
 chess/pieces/King.class
 app/Program.class
 chess/ChessMatch.class
